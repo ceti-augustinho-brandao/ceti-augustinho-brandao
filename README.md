@@ -1,9 +1,13 @@
 Membros da equipe;
 
 Álvaro Melo de Brito
+
 Antonio Ricardo de Brito
+
 Felipe De Oliveira Brito
+
 Henrique Dos Santos Fontenele
+
 Miguel Machado Do Nascimento
 
 Professor orientador;
